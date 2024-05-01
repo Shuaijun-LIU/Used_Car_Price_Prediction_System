@@ -30,11 +30,11 @@ The initial phase focuses on gathering and preparing data for analysis:
   - Extracting detailed attributes of each car listing (e.g., description, time posted, distance, location, price, model year, and URL).
   - Storing extracted data in JSON format for downstream processing.
 <p align="center">
-<img src="Image/web1.png"  style="width: 500px;"/>
+<img src="Image/web1.png"  style="width: 700px;"/>
 </p>
 
 <p align="center">
-<img src="Image/web2.png"  style="width: 500px;"/>
+<img src="Image/web2.png"  style="width: 700px;"/>
 </p>
 
 Core Function:
