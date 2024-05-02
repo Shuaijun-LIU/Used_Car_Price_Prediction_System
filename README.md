@@ -8,6 +8,11 @@
 ### Project Description
 This project was a combined analysis and modeling effort to predict used car prices based on data from the [Craigslist website](https://boston.craigslist.org/search/sss?bundleDuplicates=1&postal=02134&query=toyota&search_distance=100#search=1~gallery~0~0). The project took a systems approach to data collection, preprocessing, visualization, and modeling using Python tools and libraries. The goal was to utilize various data science techniques to create a recommendation system that accurately predicts and provides car price estimates based on user input.
 
+### Author: Shuaijun Liu
+<p align="center">
+<img src="Image/achi.png"  style="width: 800px;"/>
+</p>
+
 ### Introduction
 Welcome to my Used Car Price Prediction System project!  Before you start, you need to make sure that all the necessary preparations have been completed.
 1. [Environment Setup Guide](Environment_setup/Installing_Required_Packages.md)
@@ -169,6 +174,15 @@ The processed data is stored in the file: [combined_data/processed_toyota_data.j
 - **Functionality**: Based on the models trained, the system can predict car prices based on inputs such as distance, description (brand and model), and condition.
 - **Input Specification**: Users input characteristics like car's condition (ranging from 'New' to 'Poor'), which are then used to estimate prices.
 
+### Author: Shuaijun Liu
+<p align="center">
+<img src="Image/demo1.png"  style="width: 800px;"/>
+</p>
+
+### Author: Shuaijun Liu
+<p align="center">
+<img src="Image/demo2.png"  style="width: 800px;"/>
+</p>
 
 ### Conclusion
 This project demonstrates the application of advanced data science techniques in real-world scenarios. Through meticulous data collection, preprocessing, and modeling, the system provides reliable price predictions that can assist users in making informed decisions in the used car market.
