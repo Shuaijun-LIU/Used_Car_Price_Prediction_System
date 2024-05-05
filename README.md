@@ -1,6 +1,6 @@
 # Used Car Price Prediction System
-## [ CS677 Project in 2024]
-### Author: Shuaijun Liu
+### <u>*Author:</u> [Shuaijun Liu: — Click here to go to my Personal Web Page](https://shuaijun-liu.github.io/)
+
 <p align="center">
 <img src="Image/sys1.webp"  style="width: 800px;"/>
 </p>
